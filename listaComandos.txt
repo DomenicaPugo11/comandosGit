@@ -1,1 +1,3 @@
 git clone: este nos sirve para clonar el repositorio remoto al local
+
+git commit: Nos ayuda a darle un mensaje descriptivo al cambio que nosotros hemos realizado en el archivo, además que este nos ayuda a regresar a la anterior versión si nos equivocamos gracias al id que nos da
