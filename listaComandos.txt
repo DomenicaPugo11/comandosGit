@@ -1,3 +1,9 @@
 git clone: este nos sirve para clonar el repositorio remoto al local
 
 git commit: Nos ayuda a darle un mensaje descriptivo al cambio que nosotros hemos realizado en el archivo, además que este nos ayuda a regresar a la anterior versión si nos equivocamos gracias al id que nos da
+
+git push: Este nos sirve para subir los archivos del local al repositorio remoto
+
+git status: Nos da una lectura de todo lo que pasa dentro de mi repositorio como por ejemplo si este esta en untracked o en Tracked
+
+git add: Este nos sirve para agregar los cambios en el staging para luego hacer un commit
