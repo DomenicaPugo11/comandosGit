@@ -1,0 +1,1 @@
+git clone: este nos sirve para clonar el repositorio remoto al local
